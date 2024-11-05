@@ -1,0 +1,15 @@
+# Ignore CSV files
+*.csv
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore XML files
+*.xml
+
+# Ignore JSON files
+*.json
+
+# Ignore data folder
+data/
